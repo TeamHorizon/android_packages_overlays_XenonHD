@@ -21,7 +21,7 @@ fi
 # Generate themes
 
 overlay_path="$dd_path/app/src/main/assets/overlays"
-overlay_package="com.aicp.overlay.defaultdark"
+overlay_package="com.xenonhd.overlay.defaultdark"
 generate_overlay "$overlay_path" "$my_path/DefaultDark-System" "android" "$overlay_package" || exit $?
 generate_overlay "$overlay_path" "$my_path/DefaultDark-SystemUI" "com.android.systemui" "$overlay_package" 2:android_8_darker || exit $?
 generate_overlay "$overlay_path" "$my_path/DefaultDark-Settings" "com.android.settings" "$overlay_package" || exit $?

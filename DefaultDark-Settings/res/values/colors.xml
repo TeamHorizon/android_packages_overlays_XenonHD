@@ -155,8 +155,6 @@
     <color name="linear_color_bar_middle">@*android:color/accent_material_dark</color>
     <color name="linear_color_bar_right">#ff3d3d3d</color>
 
-    <!--color name="aicp_logo_bg">#ff303030</color-->
-
     <color name="gestures_switchbar_color">#ff424242</color>
     <color name="gestures_setting_background_color">@*android:color/background_material_dark</color>
 

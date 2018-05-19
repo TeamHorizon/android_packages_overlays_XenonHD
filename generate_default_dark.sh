@@ -74,7 +74,6 @@ fix_dd() {
 
         # Clean up other unneeded resources
         rm "$my_path/$basename-Settings/res/drawable"**/ic_*
-        rm "$my_path/$basename-Settings/res/drawable/aicp_logo_bg.png"
         rm "$my_path/$basename-Settings/res/drawable"**/nfc_payment_empty_state.png
     fi
 

@@ -21,12 +21,12 @@ fi
 # Generate themes
 
 overlay_path="$dd_path/app/src/main/assets/overlays"
-overlay_package="com.aicp.overlay.defaultdark"
-overlay_package_dark_notif="com.aicp.overlay.defaultdark.notif"
-overlay_package_black="com.aicp.overlay.defaultblack"
-overlay_package_black_notif="com.aicp.overlay.defaultblack.notif"
-overlay_package_dark_transparent="com.aicp.overlay.defaultdark.transparent"
-overlay_package_black_transparent="com.aicp.overlay.defaultblack.transparent"
+overlay_package="com.xenonhd.overlay.defaultdark"
+overlay_package_dark_notif="com.xenonhd.overlay.defaultdark.notif"
+overlay_package_black="com.xenonhd.overlay.defaultblack"
+overlay_package_black_notif="com.xenonhd.overlay.defaultblack.notif"
+overlay_package_dark_transparent="com.xenonhd.overlay.defaultdark.transparent"
+overlay_package_black_transparent="com.xenonhd.overlay.defaultblack.transparent"
 product_packages_makefile="$my_path/product_packages_dark.mk"
 
 fix_dd() {

@@ -22,3 +22,5 @@ PRODUCT_PACKAGES += \
     DefaultDarkTransparent-SystemUI \
     DefaultBlackTransparent-System \
     DefaultBlackTransparent-SystemUI \
+    LineageBlackTheme \
+    LineageDarkTheme \

@@ -15,3 +15,10 @@ PRODUCT_PACKAGES += \
     Accent-Teal \
     Accent-Turquoise \
     Accent-Yellow \
+
+# Berry styles
+PRODUCT_PACKAGES += \
+    LineageBlackAccent \
+    LineageBlueAccent \
+    LineageBrownAccent \
+    LineageGreenAccent \

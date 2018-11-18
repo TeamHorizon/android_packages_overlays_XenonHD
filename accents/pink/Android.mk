@@ -1,11 +1,10 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_RRO_THEME := LineagePinkAccent
+LOCAL_RRO_THEME := Accent-Pink
 LOCAL_CERTIFICATE := platform
+LOCAL_SDK_VERSION := current
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
-LOCAL_PACKAGE_NAME := LineagePinkAccent
-
-LOCAL_PRIVATE_PLATFORM_APIS := true
+LOCAL_PACKAGE_NAME := Accent-Pink
 
 include $(BUILD_RRO_SYSTEM_PACKAGE)

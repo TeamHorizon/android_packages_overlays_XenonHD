@@ -1,10 +1,14 @@
 # Berry styles
 PRODUCT_PACKAGES += \
     Accent-Amber \
+    Accent-Black \
+    Accent-Blue \
     Accent-BlueLight \
+    Accent-Brown \
     Accent-Cyan \
     Accent-Denim \
     Accent-Gold \
+    Accent-Green \
     Accent-GreenLight \
     Accent-Lime \
     Accent-Orange \
@@ -15,13 +19,9 @@ PRODUCT_PACKAGES += \
     Accent-Red \
     Accent-Teal \
     Accent-Turquoise \
-    Accent-Yellow \
-    LineageBlackAccent \
-    LineageBlueAccent \
-    LineageBrownAccent \
-    LineageGreenAccent \
+    Accent-Yellow
 
 # Themes
 PRODUCT_PACKAGES += \
     LineageBlackTheme \
-    LineageDarkTheme \
+    LineageDarkTheme

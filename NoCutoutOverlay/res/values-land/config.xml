@@ -19,4 +19,12 @@
     <dimen name="quick_qs_offset_height">28dp</dimen>
     <!-- Total height of QQS in landscape; quick_qs_offset_height + 128 -->
     <dimen name="quick_qs_total_height">156dp</dimen>
+    <!-- Because we hardcode status_bar_height in Oreo device overlays,
+         we also need to do it here. -->
+<<<<<<< HEAD:NoCutoutOverlay/res/values-land/config.xml
+    <dimen name="status_bar_height">24dp</dimen>
 </resources>
+=======
+    <dimen name="status_bar_height">28dp</dimen>
+</resources>
+>>>>>>> 7f4c2d2... Use 28dp statusbar in NoCutout overlay:overlay/packages/apps/overlays/NoCutoutOverlay/res/values-land/config.xml
